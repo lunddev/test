@@ -1,0 +1,912 @@
+2014-11-16 12:37:34.5019|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'Lunddev-Projects'...
+remote: Counting objects: 456, done.[K
+remote: Compressing objects:   2% (1/43)   [K
+remote: Compressing objects:   4% (2/43)   [K
+remote: Compressing objects:   6% (3/43)   [K
+remote: Compressing objects:   9% (4/43)   [K
+remote: Compressing objects:  11% (5/43)   [K
+remote: Compressing objects:  13% (6/43)   [K
+remote: Compressing objects:  16% (7/43)   [K
+remote: Compressing objects:  18% (8/43)   [K
+remote: Compressing objects:  20% (9/43)   [K
+remote: Compressing objects:  23% (10/43)   [K
+remote: Compressing objects:  25% (11/43)   [K
+remote: Compressing objects:  27% (12/43)   [K
+remote: Compressing objects:  30% (13/43)   [K
+remote: Compressing objects:  32% (14/43)   [K
+remote: Compressing objects:  34% (15/43)   [K
+remote: Compressing objects:  37% (16/43)   [K
+remote: Compressing objects:  39% (17/43)   [K
+remote: Compressing objects:  41% (18/43)   [K
+remote: Compressing objects:  44% (19/43)   [K
+remote: Compressing objects:  46% (20/43)   [K
+remote: Compressing objects:  48% (21/43)   [K
+remote: Compressing objects:  51% (22/43)   [K
+remote: Compressing objects:  53% (23/43)   [K
+remote: Compressing objects:  55% (24/43)   [K
+remote: Compressing objects:  58% (25/43)   [K
+remote: Compressing objects:  60% (26/43)   [K
+remote: Compressing objects:  62% (27/43)   [K
+remote: Compressing objects:  65% (28/43)   [K
+remote: Compressing objects:  67% (29/43)   [K
+remote: Compressing objects:  69% (30/43)   [K
+remote: Compressing objects:  72% (31/43)   [K
+remote: Compressing objects:  74% (32/43)   [K
+remote: Compressing objects:  76% (33/43)   [K
+remote: Compressing objects:  79% (34/43)   [K
+remote: Compressing objects:  81% (35/43)   [K
+remote: Compressing objects:  83% (36/43)   [K
+remote: Compressing objects:  86% (37/43)   [K
+remote: Compressing objects:  88% (38/43)   [K
+remote: Compressing objects:  90% (39/43)   [K
+remote: Compressing objects:  93% (40/43)   [K
+remote: Compressing objects:  95% (41/43)   [K
+remote: Compressing objects:  97% (42/43)   [K
+remote: Compressing objects: 100% (43/43)   [K
+remote: Compressing objects: 100% (43/43), done.[K
+Receiving objects:   0% (1/456)   
+Receiving objects:   1% (5/456)   
+Receiving objects:   2% (10/456)   
+Receiving objects:   3% (14/456)   
+Receiving objects:   4% (19/456)   
+Receiving objects:   5% (23/456)   
+Receiving objects:   6% (28/456)   
+Receiving objects:   7% (32/456)   
+Receiving objects:   8% (37/456)   
+Receiving objects:   9% (42/456)   
+Receiving objects:  10% (46/456), 12.00 KiB | 12.00 KiB/s   
+Receiving objects:  11% (51/456), 12.00 KiB | 12.00 KiB/s   
+Receiving objects:  11% (54/456), 20.00 KiB | 10.00 KiB/s   
+Receiving objects:  12% (55/456), 20.00 KiB | 10.00 KiB/s   
+Receiving objects:  13% (60/456), 20.00 KiB | 10.00 KiB/s   
+Receiving objects:  13% (60/456), 28.00 KiB | 9.00 KiB/s   
+Receiving objects:  14% (64/456), 28.00 KiB | 9.00 KiB/s   
+Receiving objects:  15% (69/456), 28.00 KiB | 9.00 KiB/s   
+Receiving objects:  16% (73/456), 28.00 KiB | 9.00 KiB/s   
+Receiving objects:  16% (73/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  17% (78/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  18% (83/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  19% (87/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  20% (92/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  21% (96/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  22% (101/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  23% (105/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  24% (110/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  25% (114/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  25% (116/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  26% (119/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  27% (124/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  28% (128/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  29% (133/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  30% (137/456), 36.00 KiB | 8.00 KiB/s   
+Receiving objects:  31% (142/456), 212.00 KiB | 45.00 KiB/s   
+Receiving objects:  31% (143/456), 364.00 KiB | 70.00 KiB/s   
+Receiving objects:  32% (146/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  33% (151/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  34% (156/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  35% (160/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  36% (165/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  37% (169/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  38% (174/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  39% (178/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  40% (183/456), 508.00 KiB | 90.00 KiB/s   
+Receiving objects:  40% (185/456), 1.00 MiB | 153.00 KiB/s   
+Receiving objects:  40% (185/456), 1.14 MiB | 187.00 KiB/s   
+Receiving objects:  40% (185/456), 1.15 MiB | 198.00 KiB/s   
+Receiving objects:  40% (185/456), 1.17 MiB | 164.00 KiB/s   
+Receiving objects:  40% (185/456), 1.18 MiB | 90.00 KiB/s   
+Receiving objects:  40% (185/456), 1.18 MiB | 73.00 KiB/s   
+Receiving objects:  40% (185/456), 1.51 MiB | 72.00 KiB/s   
+Receiving objects:  40% (185/456), 2.27 MiB | 124.00 KiB/s   
+Receiving objects:  40% (185/456), 2.50 MiB | 156.00 KiB/s   
+Receiving objects:  40% (185/456), 2.51 MiB | 152.00 KiB/s   
+Receiving objects:  40% (185/456), 2.52 MiB | 226.00 KiB/s   
+Receiving objects:  40% (185/456), 2.54 MiB | 182.00 KiB/s   
+Receiving objects:  40% (186/456), 2.54 MiB | 158.00 KiB/s   
+Receiving objects:  41% (187/456), 2.54 MiB | 158.00 KiB/s   
+Receiving objects:  42% (192/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  43% (197/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  44% (201/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  45% (206/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  46% (210/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  47% (215/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  47% (217/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  48% (219/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  49% (224/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  50% (228/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  51% (233/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  52% (238/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  53% (242/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  54% (247/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  55% (251/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  56% (256/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  57% (260/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  58% (265/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  59% (270/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  60% (274/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  61% (279/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  62% (283/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  63% (288/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  64% (292/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  65% (297/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  66% (301/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  67% (306/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  68% (311/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  69% (315/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  70% (320/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  71% (324/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  72% (329/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  73% (333/456), 2.55 MiB | 122.00 KiB/s   
+Receiving objects:  73% (337/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  74% (338/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  75% (342/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  76% (347/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  77% (352/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  78% (356/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  79% (361/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  80% (365/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  81% (370/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  82% (374/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  83% (379/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  84% (384/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  85% (388/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  86% (393/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  87% (397/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  88% (402/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  89% (406/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  90% (411/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  91% (415/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  92% (420/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  93% (425/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  94% (429/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  95% (434/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  96% (438/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  97% (443/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  98% (447/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects:  99% (452/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects: 100% (456/456), 2.59 MiB | 71.00 KiB/s   
+Receiving objects: 100% (456/456), 2.90 MiB | 37.00 KiB/s, done.
+Resolving deltas:   0% (0/229)   
+Resolving deltas:   2% (6/229)   
+Resolving deltas:   3% (8/229)   
+Resolving deltas:   5% (13/229)   
+Resolving deltas:   8% (19/229)   
+Resolving deltas:   9% (21/229)   
+Resolving deltas:  10% (23/229)   
+Resolving deltas:  12% (28/229)   
+Resolving deltas:  13% (31/229)   
+Resolving deltas:  42% (97/229)   
+Resolving deltas:  43% (99/229)   
+Resolving deltas:  44% (101/229)   
+Resolving deltas:  55% (126/229)   
+Resolving deltas:  56% (129/229)   
+Resolving deltas:  58% (133/229)   
+Resolving deltas:  62% (143/229)   
+Resolving deltas:  63% (145/229)   
+Resolving deltas:  64% (147/229)   
+Resolving deltas:  65% (149/229)   
+Resolving deltas:  66% (153/229)   
+Resolving deltas:  68% (157/229)   
+Resolving deltas:  69% (160/229)   
+Resolving deltas:  72% (165/229)   
+Resolving deltas:  73% (169/229)   
+Resolving deltas:  74% (171/229)   
+Resolving deltas:  75% (172/229)   
+Resolving deltas:  78% (179/229)   
+Resolving deltas:  82% (188/229)   
+Resolving deltas:  83% (191/229)   
+Resolving deltas:  86% (199/229)   
+Resolving deltas:  87% (201/229)   
+Resolving deltas:  88% (202/229)   
+Resolving deltas:  89% (206/229)   
+Resolving deltas:  90% (208/229)   
+Resolving deltas:  91% (210/229)   
+Resolving deltas:  92% (211/229)   
+Resolving deltas:  93% (213/229)   
+Resolving deltas:  99% (227/229)   
+Resolving deltas: 100% (229/229)   
+Resolving deltas: 100% (229/229), done.
+remote: Total 456 (delta 16), reused 0 (delta 0)[K
+Checking connectivity... done.
+fatal: cannot create directory at '.c9/metadata/preview-https:': Invalid argument
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry the checkout with 'git checkout -f HEAD'
+
+2014-11-16 12:05:00.3169|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394\GitHub.exe
+2014-11-16 12:05:00.3169|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2014-11-16 12:05:00.5169|INFO|thread: 1|HardwareRenderingHelper|Making a WMI query to discover any video PNPID entries
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| #########################################
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| GitHub for Windows started. VERSION: 2.6.3.5
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| Build version: b696abbd879b8f5f8de49c2853277b7880f7f44d
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***************************************
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***                                 ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***                                 ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***        Have a problem?          ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***    Email support@github.com     ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***      and include this file      ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***                                 ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***                                 ***
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| ***************************************
+2014-11-16 12:05:00.7069|INFO|thread: 7|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2014-11-16 12:05:00.8069|INFO|thread: 7|StartupLogging| CLR Version: 4.0.30319.18444
+2014-11-16 12:05:00.8069|INFO|thread: 7|StartupLogging| Current culture: sv-SE
+2014-11-16 12:05:00.8069|INFO|thread: 7|StartupLogging| Terminal Services session: no
+2014-11-16 12:05:00.8069|INFO|thread: 7|StartupLogging| Location: C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394\GitHub.exe
+2014-11-16 12:05:00.9069|INFO|thread: 7|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2014-11-16 12:05:01.0769|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2014-11-16 12:05:01.0769|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2014-11-16 12:05:01.2069|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2014-11-16 12:05:01.2069|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Program Files (x86)\HP SimplePass\;C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.3.4\;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\Jacob\AppData\Roaming\cabal\bin
+2014-11-16 12:05:01.2569|INFO|thread: 7|StartupLogging| =====================================================
+2014-11-16 12:05:01.2569|INFO|thread: 7|StartupLogging|  DIAGNOSTICS                                        |
+2014-11-16 12:05:01.2569|INFO|thread: 7|StartupLogging| =====================================================
+2014-11-16 12:05:01.2669|WARN|thread: 1|POCOObservableForProperty|ReactiveUI.ReactiveCommandSix`1[[System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]] is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:01.3269|INFO|thread: 7|StartupLogging| Git Extracted: 'True:
+2014-11-16 12:05:01.3269|INFO|thread: 7|StartupLogging| PortableGit Dir Exists: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2'
+2014-11-16 12:05:01.3269|INFO|thread: 7|StartupLogging| Git Executable Exists: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe'
+2014-11-16 12:05:01.3269|ERROR|thread: 7|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\Haskell\bin'
+2014-11-16 12:05:01.3269|ERROR|thread: 7|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\AMD APP\bin\x86'
+2014-11-16 12:05:01.3269|ERROR|thread: 7|StartupLogging| MISSING PATH!!: 'C:\Users\Jacob\AppData\Roaming\cabal\bin'
+2014-11-16 12:05:01.3269|INFO|thread: 7|StartupLogging| ----------------------------------------------------
+2014-11-16 12:05:01.3269|INFO|thread: 7|StartupLogging| PATH: C:\Program Files (x86)\HP SimplePass\;C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.3.4\;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\Jacob\AppData\Roaming\cabal\bin
+2014-11-16 12:05:01.6069|INFO|thread: 7|StartupLogger|Proxy information: (None)
+2014-11-16 12:05:01.6069|INFO|thread: 7|StartupLogger|Couldn't fetch creds for proxy
+2014-11-16 12:05:01.6369|INFO|thread: 7|UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394\GitHub.exe" -u="%1"
+2014-11-16 12:05:01.9369|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394\Images\App.ico'
+2014-11-16 12:05:02.3069|WARN|thread: 1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-11-16 12:05:02.3069|WARN|thread: 1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-11-16 12:05:02.3069|WARN|thread: 1|LogHost|and friends will appear to 'miss' items
+2014-11-16 12:05:02.6069|INFO|thread: 7|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2014-11-16 12:05:09.0000|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.DropRepositoryView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:09.2600|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.DashboardView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:09.4200|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.RepositoryCloneProgress is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:09.7400|INFO|thread: 1|GitExtractionVisualHelper|Portable Git is already extracted
+2014-11-16 12:05:09.8500|INFO|thread: 1|GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\Jacob\AppData\Local\GitHub\shell.ps1'
+2014-11-16 12:05:09.8500|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2014-11-16 12:05:09.8500|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2014-11-16 12:05:11.2310|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.SourceList is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.3010|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.SourceListRepositoryItem is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.3610|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.RepositoryNotFound is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.3810|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.PopupMenuView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.4210|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.AddOrCreatePopup is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.5410|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2014-11-16 12:05:11.5510|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.CreateRepositoryTab is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.7310|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.BrowseRepositoriesTab is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.7710|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.BrowseRepositoriesList is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.9110|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.TwoFactorView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.9310|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.CertificateErrorView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.9510|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.UndoFlashView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:11.9510|INFO|thread:12|SoftwareUpdateViewModel|Checking for new version
+2014-11-16 12:05:12.7870|WARN|thread: 1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-11-16 12:05:12.7870|WARN|thread: 1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-11-16 12:05:12.7870|WARN|thread: 1|LogHost|and friends will appear to 'miss' items
+2014-11-16 12:05:13.1180|WARN|thread: 1|POCOObservableForProperty|GitHub.Validation.ReactivePropertyValidationResult is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:05:14.6570|INFO|thread: 1|RepositoryHost|Log in from cache for login 'jacobry' to host 'https://api.github.com/' SUCCEEDED
+2014-11-16 12:05:14.6870|INFO|thread:23|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Jacob Rydh' and user.email = 'jacobry@kth.se'
+2014-11-16 12:05:14.7070|INFO|thread: 8|SSHProcessManager|Starting ssh-agent.exe
+2014-11-16 12:05:14.7070|INFO|thread: 8|PortablePackageManager|Already extracted git-media-amd64.7z, returning 100%
+2014-11-16 12:05:15.0270|WARN|thread: 1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-11-16 12:05:15.0270|WARN|thread: 1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-11-16 12:05:15.0270|WARN|thread: 1|LogHost|and friends will appear to 'miss' items
+2014-11-16 12:05:15.8070|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:05:15.8070|INFO|thread:24|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:05:15.8670|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\ssh-add.exe', Args: '"C:\Users\Jacob\.ssh\github_rsa"', Working Directory: C:\Users\Jacob\AppData\Local\Temp\
+2014-11-16 12:05:16.3370|INFO|thread: 8|SSHKeyHelper|Found existing SSH key pair
+2014-11-16 12:06:33.0765|WARN|thread: 1|POCOObservableForProperty|ReactiveUI.ReactiveCommandSix`1[[System.Reactive.Unit, System.Reactive.Core, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]] is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:33.1945|WARN|thread: 1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-11-16 12:06:33.1945|WARN|thread: 1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-11-16 12:06:33.1945|WARN|thread: 1|LogHost|and friends will appear to 'miss' items
+2014-11-16 12:06:33.5335|WARN|thread: 1|POCOObservableForProperty|ReactiveUI.ReactiveCommandSix`1[[GitHub.Models.ICommitModel, GitHub, Version=2.6.3.5, Culture=neutral, PublicKeyToken=null]] is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:33.6025|INFO|thread:29|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:33.8055|INFO|thread:29|RepositoryConnection|Loaded '5' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:06:34.0255|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:06:34.0395|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent lock for operation 1: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:34.0395|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent lock for operation 1: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:34.0815|INFO|thread:28|AsyncReaderWriterLock|Released concurrent lock for operation 1: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:34.2385|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.RepositoryView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.2635|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.PublishToHostButton is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.2725|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.AheadBehindIndicator is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.3435|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.CommitForm is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.3735|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.NewCommitView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.4075|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.PublishToHostPopup is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.4385|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.PublishToHostTab is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.4905|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.GitHubLogin is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.5445|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.GitHubEnterpriseLogin is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.5725|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.BranchesPopup is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.6326|INFO|thread:29|AsyncReaderWriterLock|Acquiring concurrent lock for operation 2: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:34.6326|INFO|thread:29|AsyncReaderWriterLock|Acquired concurrent lock for operation 2: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:34.6326|INFO|thread:28|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:34.6326|INFO|thread:29|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:34.6326|INFO|thread:29|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:34.6326|INFO|thread:29|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:06:34.6326|INFO|thread:28|RepositoryConnection|Loaded '1' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:06:34.6636|INFO|thread:28|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:34.6636|INFO|thread:28|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:06:34.6986|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.Controls.CommitListItem is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:34.9976|INFO|thread:28|AsyncReaderWriterLock|Released concurrent lock for operation 2: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:35.3296|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.WorkingDirectoryFileDiffView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:35.3476|INFO|thread: 1|RepositoryViewModel|Created Shadow Backup for Repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects => 2e473053b79026af0eeb2b0fdb2f01a4a8e5c1c8 in 348ms
+2014-11-16 12:06:35.3586|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:06:35.3656|INFO|thread:29|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:06:35.3656|INFO|thread:29|RepositoryConnection|branch stats: ahead 1, behind 0
+2014-11-16 12:06:35.4016|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts and running a full fetch.
+2014-11-16 12:06:35.4126|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:35.4126|INFO|thread:30|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:35.4126|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'fetch origin --prune ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:06:38.5148|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:38.5148|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:38.5148|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:38.5148|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:38.5148|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:38.5148|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:38.7878|WARN|thread: 1|POCOObservableForProperty|GitHub.Views.CommitFileDiffView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:06:40.2699|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:40.2699|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:40.2699|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:40.2699|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:40.2699|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:40.2699|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:41.1449|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:41.1449|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:41.1449|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:41.1729|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:41.1729|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:41.1729|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:43.2490|INFO|thread:29|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:06:43.2490|INFO|thread:29|RepositoryConnection|branch stats: ahead 1, behind 0
+2014-11-16 12:06:43.8120|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:43.8120|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:43.8120|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 22a89ece01fb98afd2650c7f26795b76cb5befe3 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:43.8220|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:43.8220|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:43.8220|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 22a89ece01fb98afd2650c7f26795b76cb5befe3 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:45.2541|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:45.2541|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:45.2541|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status bc697b7325f8f5233fe77f7f5f5525b9b95154a3 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:45.2541|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:45.2541|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:45.2541|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat bc697b7325f8f5233fe77f7f5f5525b9b95154a3 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:46.4281|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:46.4281|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:46.4281|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:46.4281|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:46.4281|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:46.4281|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:47.2031|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:47.2031|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:47.2031|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:47.2031|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:47.2031|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:47.2031|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:51.5032|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:51.5032|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:51.5032|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:51.5132|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:51.5132|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:51.5132|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:53.9572|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:53.9572|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:53.9572|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:53.9672|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:53.9672|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:53.9672|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:06:59.8624|INFO|thread: 1|RepositoryHost|Log in from cache for login 'jacobry' to host 'https://api.github.com/' SUCCEEDED
+2014-11-16 12:06:59.8624|INFO|thread: 1|SyncButtonViewModel|Starting sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:06:59.8624|INFO|thread: 1|GitClient|Sync has latest unpublished commit SHA: '9a5355e7041eb588494b5f4770805ba415b8f730'
+2014-11-16 12:06:59.8744|INFO|thread:26|AsyncReaderWriterLock|Acquiring exclusive lock for operation 3: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:59.8744|INFO|thread:30|AsyncReaderWriterLock|Acquired exclusive lock for operation 3: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:06:59.8744|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:06:59.8744|INFO|thread:30|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:06:59.8744|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --rebase --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:07:00.8555|INFO|thread:23|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:00.8555|INFO|thread:23|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:00.8555|INFO|thread:23|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:07:06.9708|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:06.9708|INFO|thread:27|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:06.9708|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'push -u origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:07:13.2532|INFO|thread:27|AsyncReaderWriterLock|Released exclusive lock for operation 3: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread: 1|SyncButtonViewModel|Completing sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:07:13.2562|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent lock for operation 4: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent lock for operation 4: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread:30|AsyncReaderWriterLock|Released concurrent lock for operation 4: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent lock for operation 5: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 5: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.2562|INFO|thread:26|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:07:13.2732|INFO|thread:26|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:07:13.2732|INFO|thread:14|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:13.2732|INFO|thread:14|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:13.2732|INFO|thread:14|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:07:13.2732|INFO|thread:27|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:07:13.2732|INFO|thread:27|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:07:13.3162|INFO|thread:24|AsyncReaderWriterLock|Released concurrent lock for operation 5: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:07:13.3662|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:07:13.3662|INFO|thread:14|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:07:13.3662|INFO|thread:14|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:07:16.2513|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:16.2513|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:16.2513|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:07:16.2513|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:16.2513|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:16.2513|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:07:29.4465|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:29.4465|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:29.4465|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:07:29.4535|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:07:29.4535|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:07:29.4535|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:08.1725|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:17:08.2235|INFO|thread: 7|AsyncReaderWriterLock|Acquiring concurrent lock for operation 6: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.2235|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent lock for operation 6: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.2315|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 6: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.4416|INFO|thread: 7|AsyncReaderWriterLock|Acquiring concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.4416|INFO|thread: 7|AsyncReaderWriterLock|Acquired concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.4416|INFO|thread:12|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:08.4416|INFO|thread:12|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:08.4496|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:08.4496|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:08.4496|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:08.4726|INFO|thread: 8|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:08.4726|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:08.4726|INFO|thread: 8|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:08.5326|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:17:08.5326|INFO|thread: 8|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:17:08.5326|INFO|thread: 8|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:17:08.5326|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts and running a full fetch.
+2014-11-16 12:17:08.5446|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:08.5446|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:08.5446|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'fetch origin --prune ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:14.0669|INFO|thread: 7|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:17:14.0669|INFO|thread: 7|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:17:22.6643|INFO|thread: 1|RepositoryHost|Log in from cache for login 'jacobry' to host 'https://api.github.com/' SUCCEEDED
+2014-11-16 12:17:22.6643|INFO|thread: 1|SyncButtonViewModel|Starting sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:17:22.6643|INFO|thread:33|AsyncReaderWriterLock|Acquiring exclusive lock for operation 8: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:22.6643|INFO|thread:33|AsyncReaderWriterLock|Acquired exclusive lock for operation 8: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:22.6753|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:22.6753|INFO|thread:33|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:22.6753|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --rebase --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:23.2574|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:23.2574|INFO|thread:34|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:23.2574|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:30.1287|INFO|thread:32|AsyncReaderWriterLock|Released exclusive lock for operation 8: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1287|INFO|thread: 1|SyncButtonViewModel|Completing sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:17:30.1287|INFO|thread:35|AsyncReaderWriterLock|Acquiring concurrent lock for operation 9: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1287|INFO|thread: 7|AsyncReaderWriterLock|Acquired concurrent lock for operation 9: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1417|INFO|thread: 7|AsyncReaderWriterLock|Released concurrent lock for operation 9: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1417|INFO|thread:35|AsyncReaderWriterLock|Acquiring concurrent lock for operation 10: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1417|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent lock for operation 10: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.1417|INFO|thread:34|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:30.1467|INFO|thread:34|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:30.1467|INFO|thread: 7|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:30.1467|INFO|thread:32|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:30.1467|INFO|thread:32|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:30.1467|INFO|thread:32|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:30.1467|INFO|thread: 7|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:30.1767|INFO|thread:33|AsyncReaderWriterLock|Released concurrent lock for operation 10: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:30.2287|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:17:30.2287|INFO|thread:12|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:17:30.2287|INFO|thread:12|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:17:44.7895|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:44.7895|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:44.7895|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:44.7955|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:44.7955|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:44.7955|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:45.5015|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:45.5015|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:45.5015|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:45.5015|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:45.5015|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:45.5015|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 2762883509c84c1a04033fdaafe0a48caae2aafe ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:46.0796|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:46.0796|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:46.0796|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:46.0796|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:46.0796|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:46.0796|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 7fcc29d4bb874d6b490adf747bfa53037e84ae91 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:46.5666|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:46.5666|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:46.5666|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:46.5666|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:46.5666|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:46.5666|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:54.4500|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:17:54.4500|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.4500|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.4830|INFO|thread:15|AsyncReaderWriterLock|Released concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.5730|INFO|thread:19|AsyncReaderWriterLock|Acquiring concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.5730|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.5730|INFO|thread:33|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:54.5770|INFO|thread:33|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:54.5770|INFO|thread: 7|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:54.5770|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:54.5770|INFO|thread:34|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:54.5770|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:54.5770|INFO|thread: 7|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:54.6110|INFO|thread:19|AsyncReaderWriterLock|Released concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:54.6470|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:17:54.6570|INFO|thread:19|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:17:54.6570|INFO|thread:19|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:17:57.3192|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:17:57.3192|INFO|thread:19|AsyncReaderWriterLock|Acquiring concurrent lock for operation 13: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.3192|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent lock for operation 13: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.3332|INFO|thread:19|AsyncReaderWriterLock|Released concurrent lock for operation 13: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.4582|INFO|thread:19|AsyncReaderWriterLock|Acquiring concurrent lock for operation 14: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.4582|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent lock for operation 14: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.4582|INFO|thread: 7|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:57.4632|INFO|thread: 7|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:57.4632|INFO|thread: 7|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:17:57.4632|INFO|thread: 7|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:17:57.4632|INFO|thread:15|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:17:57.4632|INFO|thread:15|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:17:57.4632|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:17:57.5092|INFO|thread:36|AsyncReaderWriterLock|Released concurrent lock for operation 14: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:17:57.5482|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:17:57.5482|INFO|thread:19|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:17:57.5482|INFO|thread:19|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:18:00.1053|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:00.1053|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:00.1053|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:00.1053|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:00.1053|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:00.1053|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:03.8795|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:03.8795|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:03.8795|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:03.8795|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:03.8795|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:03.8795|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 9a5355e7041eb588494b5f4770805ba415b8f730 ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:24.2996|INFO|thread: 1|RepositoryHost|Log in from cache for login 'jacobry' to host 'https://api.github.com/' SUCCEEDED
+2014-11-16 12:18:24.2996|INFO|thread: 1|SyncButtonViewModel|Starting sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:18:24.2996|INFO|thread: 7|AsyncReaderWriterLock|Acquiring exclusive lock for operation 15: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:24.2996|INFO|thread:33|AsyncReaderWriterLock|Acquired exclusive lock for operation 15: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:24.2996|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:24.2996|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:24.2996|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --rebase --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:18:24.8407|INFO|thread: 7|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:24.8407|INFO|thread: 7|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:24.8407|INFO|thread: 7|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'pull --progress --prune origin master ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:18:31.0860|INFO|thread:12|AsyncReaderWriterLock|Released exclusive lock for operation 15: 'SyncBranch' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0860|INFO|thread: 1|SyncButtonViewModel|Completing sync for C:\Users\Jacob\Documents\GitHub\Lunddev-Projects - master
+2014-11-16 12:18:31.0860|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent lock for operation 16: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0860|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent lock for operation 16: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0990|INFO|thread:34|AsyncReaderWriterLock|Released concurrent lock for operation 16: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0990|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent lock for operation 17: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0990|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 17: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.0990|INFO|thread:35|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:31.0990|INFO|thread:35|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:18:31.0990|INFO|thread: 7|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:31.0990|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:31.0990|INFO|thread:33|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:31.0990|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:18:31.0990|INFO|thread: 7|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:18:31.1320|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 17: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:31.1750|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:18:31.1750|INFO|thread:32|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:18:31.1750|INFO|thread:32|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:18:36.7993|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:18:36.7993|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent lock for operation 18: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.7993|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent lock for operation 18: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.8103|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 18: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.8963|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent lock for operation 19: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.8963|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent lock for operation 19: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.8963|INFO|thread:32|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:36.9013|INFO|thread:32|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:18:36.9013|INFO|thread:15|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:18:36.9013|INFO|thread:15|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:18:36.9013|INFO|thread:15|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:18:36.9013|INFO|thread:32|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:18:36.9013|INFO|thread:32|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:18:36.9313|INFO|thread:36|AsyncReaderWriterLock|Released concurrent lock for operation 19: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:18:36.9843|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:18:36.9843|INFO|thread: 7|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:18:36.9843|INFO|thread: 7|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:19:26.8904|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:19:26.8904|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:26.8904|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:26.9004|INFO|thread:14|AsyncReaderWriterLock|Released concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:26.9894|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:26.9894|INFO|thread:21|AsyncReaderWriterLock|Acquired concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:26.9894|INFO|thread: 8|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:19:26.9944|INFO|thread: 8|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:19:26.9944|INFO|thread:24|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:19:26.9944|INFO|thread:21|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:19:26.9944|INFO|thread:21|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:19:26.9944|INFO|thread:21|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:19:26.9944|INFO|thread:24|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:19:27.0274|INFO|thread:14|AsyncReaderWriterLock|Released concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:19:27.0704|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:19:27.0704|INFO|thread:21|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:19:27.0704|INFO|thread:21|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:21:34.1370|WARN|thread: 1|POCOObservableForProperty|GitHub.Api.GitHubRepository is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:21:34.1370|WARN|thread: 1|POCOObservableForProperty|Octokit.User is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-11-16 12:22:10.4261|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/lunddev/Lunddev-Projects.git
+2014-11-16 12:22:10.4261|INFO|thread: 1|GitClient|Cloning 'https://github.com/lunddev/Lunddev-Projects.git' to 'Lunddev-Projects' in directory 'C:\Users\Jacob\Documents\GitHub\spacepal
+2014-11-16 12:22:10.4341|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:22:10.4341|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:22:10.4341|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/lunddev/Lunddev-Projects.git" "Lunddev-Projects" ', Working Directory: C:\Users\Jacob\Documents\GitHub\spacepal
+2014-11-16 12:23:30.1006|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'Lunddev-Projects'...
+remote: Counting objects: 456, done.[K
+remote: Compressing objects:   2% (1/43)   [K
+remote: Compressing objects:   4% (2/43)   [K
+remote: Compressing objects:   6% (3/43)   [K
+remote: Compressing objects:   9% (4/43)   [K
+remote: Compressing objects:  11% (5/43)   [K
+remote: Compressing objects:  13% (6/43)   [K
+remote: Compressing objects:  16% (7/43)   [K
+remote: Compressing objects:  18% (8/43)   [K
+remote: Compressing objects:  20% (9/43)   [K
+remote: Compressing objects:  23% (10/43)   [K
+remote: Compressing objects:  25% (11/43)   [K
+remote: Compressing objects:  27% (12/43)   [K
+remote: Compressing objects:  30% (13/43)   [K
+remote: Compressing objects:  32% (14/43)   [K
+remote: Compressing objects:  34% (15/43)   [K
+remote: Compressing objects:  37% (16/43)   [K
+remote: Compressing objects:  39% (17/43)   [K
+remote: Compressing objects:  41% (18/43)   [K
+remote: Compressing objects:  44% (19/43)   [K
+remote: Compressing objects:  46% (20/43)   [K
+remote: Compressing objects:  48% (21/43)   [K
+remote: Compressing objects:  51% (22/43)   [K
+remote: Compressing objects:  53% (23/43)   [K
+remote: Compressing objects:  55% (24/43)   [K
+remote: Compressing objects:  58% (25/43)   [K
+remote: Compressing objects:  60% (26/43)   [K
+remote: Compressing objects:  62% (27/43)   [K
+remote: Compressing objects:  65% (28/43)   [K
+remote: Compressing objects:  67% (29/43)   [K
+remote: Compressing objects:  69% (30/43)   [K
+remote: Compressing objects:  72% (31/43)   [K
+remote: Compressing objects:  74% (32/43)   [K
+remote: Compressing objects:  76% (33/43)   [K
+remote: Compressing objects:  79% (34/43)   [K
+remote: Compressing objects:  81% (35/43)   [K
+remote: Compressing objects:  83% (36/43)   [K
+remote: Compressing objects:  86% (37/43)   [K
+remote: Compressing objects:  88% (38/43)   [K
+remote: Compressing objects:  90% (39/43)   [K
+remote: Compressing objects:  93% (40/43)   [K
+remote: Compressing objects:  95% (41/43)   [K
+remote: Compressing objects:  97% (42/43)   [K
+remote: Compressing objects: 100% (43/43)   [K
+remote: Compressing objects: 100% (43/43), done.[K
+Receiving objects:   0% (1/456)   
+Receiving objects:   1% (5/456)   
+Receiving objects:   2% (10/456)   
+Receiving objects:   3% (14/456)   
+Receiving objects:   4% (19/456)   
+Receiving objects:   5% (23/456)   
+Receiving objects:   6% (28/456)   
+Receiving objects:   7% (32/456)   
+Receiving objects:   8% (37/456)   
+Receiving objects:   9% (42/456)   
+Receiving objects:  10% (46/456)   
+Receiving objects:  11% (51/456)   
+Receiving objects:  12% (55/456)   
+Receiving objects:  13% (60/456)   
+Receiving objects:  13% (60/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  14% (64/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  15% (69/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  16% (73/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  17% (78/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  18% (83/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  19% (87/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  20% (92/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  21% (96/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  22% (101/456), 28.00 KiB | 16.00 KiB/s   
+Receiving objects:  22% (104/456), 52.00 KiB | 20.00 KiB/s   
+Receiving objects:  23% (105/456), 52.00 KiB | 20.00 KiB/s   
+Receiving objects:  24% (110/456), 52.00 KiB | 20.00 KiB/s   
+Receiving objects:  25% (114/456), 52.00 KiB | 20.00 KiB/s   
+Receiving objects:  25% (115/456), 84.00 KiB | 26.00 KiB/s   
+Receiving objects:  25% (115/456), 92.00 KiB | 10.00 KiB/s   
+Receiving objects:  26% (119/456), 92.00 KiB | 10.00 KiB/s   
+Receiving objects:  27% (124/456), 92.00 KiB | 10.00 KiB/s   
+Receiving objects:  28% (128/456), 92.00 KiB | 10.00 KiB/s   
+Receiving objects:  28% (131/456), 148.00 KiB | 13.00 KiB/s   
+Receiving objects:  28% (131/456), 172.00 KiB | 13.00 KiB/s   
+Receiving objects:  29% (133/456), 172.00 KiB | 13.00 KiB/s   
+Receiving objects:  29% (133/456), 180.00 KiB | 13.00 KiB/s   
+Receiving objects:  29% (136/456), 204.00 KiB | 12.00 KiB/s   
+Receiving objects:  30% (137/456), 204.00 KiB | 12.00 KiB/s   
+Receiving objects:  30% (140/456), 252.00 KiB | 15.00 KiB/s   
+Receiving objects:  31% (142/456), 252.00 KiB | 15.00 KiB/s   
+Receiving objects:  31% (143/456), 308.00 KiB | 16.00 KiB/s   
+Receiving objects:  31% (143/456), 340.00 KiB | 17.00 KiB/s   
+Receiving objects:  31% (143/456), 364.00 KiB | 25.00 KiB/s   
+Receiving objects:  32% (146/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  33% (151/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  34% (156/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  35% (160/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  36% (165/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  37% (169/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  38% (174/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  39% (178/456), 500.00 KiB | 38.00 KiB/s   
+Receiving objects:  39% (182/456), 628.00 KiB | 58.00 KiB/s   
+Receiving objects:  40% (183/456), 628.00 KiB | 58.00 KiB/s   
+Receiving objects:  40% (185/456), 908.00 KiB | 132.00 KiB/s   
+Receiving objects:  40% (185/456), 1.18 MiB | 173.00 KiB/s   
+Receiving objects:  40% (185/456), 1.59 MiB | 253.00 KiB/s   
+Receiving objects:  40% (185/456), 2.15 MiB | 364.00 KiB/s   
+Receiving objects:  41% (187/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  42% (192/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  43% (197/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  44% (201/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  45% (206/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  46% (210/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  47% (215/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  48% (219/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  49% (224/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  50% (228/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  51% (233/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  52% (238/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  53% (242/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  54% (247/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  55% (251/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  56% (256/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  57% (260/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  58% (265/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  59% (270/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  60% (274/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  61% (279/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  61% (282/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  62% (283/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  63% (288/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  64% (292/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  65% (297/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  66% (301/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  67% (306/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  68% (311/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  69% (315/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  70% (320/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  71% (324/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  72% (329/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  73% (333/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  74% (338/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  75% (342/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  76% (347/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  77% (352/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  78% (356/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  79% (361/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  80% (365/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  81% (370/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  82% (374/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  83% (379/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  84% (384/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  85% (388/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  86% (393/456), 2.40 MiB | 398.00 KiB/s   
+Receiving objects:  87% (397/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  88% (402/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  89% (406/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  90% (411/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  91% (415/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  92% (420/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  93% (425/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  94% (429/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  95% (434/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  96% (438/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  97% (443/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  98% (447/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects:  99% (452/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects: 100% (456/456), 2.65 MiB | 422.00 KiB/s   
+Receiving objects: 100% (456/456), 2.90 MiB | 442.00 KiB/s, done.
+Resolving deltas:   0% (0/229)   
+Resolving deltas:   2% (6/229)   
+Resolving deltas:   3% (8/229)   
+Resolving deltas:   5% (13/229)   
+Resolving deltas:   8% (19/229)   
+Resolving deltas:   9% (21/229)   
+Resolving deltas:  10% (23/229)   
+Resolving deltas:  12% (28/229)   
+Resolving deltas:  13% (31/229)   
+Resolving deltas:  42% (97/229)   
+Resolving deltas:  43% (99/229)   
+Resolving deltas:  44% (101/229)   
+Resolving deltas:  55% (126/229)   
+Resolving deltas:  56% (129/229)   
+Resolving deltas:  58% (133/229)   
+Resolving deltas:  62% (143/229)   
+Resolving deltas:  63% (145/229)   
+Resolving deltas:  64% (147/229)   
+Resolving deltas:  65% (149/229)   
+Resolving deltas:  66% (153/229)   
+Resolving deltas:  68% (157/229)   
+Resolving deltas:  69% (160/229)   
+Resolving deltas:  72% (165/229)   
+Resolving deltas:  73% (169/229)   
+Resolving deltas:  74% (171/229)   
+Resolving deltas:  75% (172/229)   
+Resolving deltas:  78% (179/229)   
+Resolving deltas:  82% (188/229)   
+Resolving deltas:  83% (191/229)   
+Resolving deltas:  86% (199/229)   
+Resolving deltas:  87% (201/229)   
+Resolving deltas:  88% (202/229)   
+Resolving deltas:  89% (206/229)   
+Resolving deltas:  90% (208/229)   
+Resolving deltas:  91% (210/229)   
+Resolving deltas:  92% (211/229)   
+Resolving deltas:  93% (213/229)   
+Resolving deltas:  99% (227/229)   
+Resolving deltas: 100% (229/229)   
+Resolving deltas: 100% (229/229), done.
+remote: Total 456 (delta 16), reused 0 (delta 0)[K
+Checking connectivity... done.
+fatal: cannot create directory at '.c9/metadata/preview-https:': Invalid argument
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry the checkout with 'git checkout -f HEAD'
+
+2014-11-16 12:23:30.1496|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:23:30.1496|INFO|thread:23|AsyncReaderWriterLock|Acquiring concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:30.1496|INFO|thread:23|AsyncReaderWriterLock|Acquired concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:30.1616|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:30.7967|INFO|thread:43|AsyncReaderWriterLock|Acquiring concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:30.7967|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:30.7967|INFO|thread:43|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:23:30.7967|INFO|thread:43|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:23:30.7967|INFO|thread:43|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:23:30.7967|INFO|thread:23|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:23:30.8097|INFO|thread:23|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:23:30.8367|INFO|thread:41|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:23:30.8367|INFO|thread:41|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:23:30.8577|INFO|thread:27|AsyncReaderWriterLock|Released concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:23:31.0107|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:23:31.0107|INFO|thread:39|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:23:31.0107|INFO|thread:39|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:23:31.0107|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts and running a full fetch.
+2014-11-16 12:23:31.0257|INFO|thread:23|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:23:31.0257|INFO|thread:23|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:23:31.0257|INFO|thread:23|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'fetch origin --prune ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:23:40.5762|INFO|thread:23|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:23:40.5762|INFO|thread:23|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:35:01.6532|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:35:01.6532|INFO|thread:39|AsyncReaderWriterLock|Acquiring concurrent lock for operation 24: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.6532|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent lock for operation 24: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.6702|INFO|thread:39|AsyncReaderWriterLock|Released concurrent lock for operation 24: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.6712|INFO|thread:39|AsyncReaderWriterLock|Acquiring concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.6712|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.6712|INFO|thread:42|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:35:01.6712|INFO|thread:39|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:35:01.6712|INFO|thread:39|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:35:01.6712|INFO|thread:39|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:35:01.6712|INFO|thread:42|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:35:01.6712|INFO|thread:41|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:35:01.6882|INFO|thread:41|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:35:01.7212|INFO|thread:18|AsyncReaderWriterLock|Released concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:01.7582|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:35:01.7582|INFO|thread:44|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:35:01.7582|INFO|thread:44|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:35:01.7582|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts and running a full fetch.
+2014-11-16 12:35:01.7682|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:35:01.7682|INFO|thread:40|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:35:01.7682|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'fetch origin --prune ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:35:07.6095|INFO|thread:30|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:35:07.6095|INFO|thread:30|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:35:35.9551|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2014-11-16 12:35:35.9551|INFO|thread:41|AsyncReaderWriterLock|Acquiring concurrent lock for operation 26: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:35.9551|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent lock for operation 26: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:35.9651|INFO|thread:41|AsyncReaderWriterLock|Released concurrent lock for operation 26: 'LoadHeadForRepo' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:36.0241|INFO|thread:18|AsyncReaderWriterLock|Acquiring concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:36.0241|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:36.0241|INFO|thread:39|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:35:36.0241|INFO|thread:39|RepositoryConnection|Loaded '0' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:35:36.0241|INFO|thread:27|GitClient|Loading commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects
+2014-11-16 12:35:36.0241|INFO|thread:18|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:35:36.0241|INFO|thread:18|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:35:36.0241|INFO|thread:18|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\
+2014-11-16 12:35:36.0411|INFO|thread:27|RepositoryConnection|Loaded '17' commits for repo: C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.
+2014-11-16 12:35:36.0711|INFO|thread:44|AsyncReaderWriterLock|Released concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource C:\Users\Jacob\Documents\GitHub\Lunddev-Projects\.git
+2014-11-16 12:35:36.1151|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2014-11-16 12:35:36.1161|INFO|thread:42|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2014-11-16 12:35:36.1161|INFO|thread:42|RepositoryConnection|branch stats: ahead 0, behind 0
+2014-11-16 12:36:52.6365|INFO|thread:11|CrossProcessMessageBus|Another instance started and signaled us.
+2014-11-16 12:36:52.6365|INFO|thread:11|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/lunddev/Lunddev-Projects'
+2014-11-16 12:37:01.1200|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/lunddev/Lunddev-Projects.git
+2014-11-16 12:37:01.1200|INFO|thread: 1|GitClient|Cloning 'https://github.com/lunddev/Lunddev-Projects.git' to 'Lunddev-Projects' in directory 'C:\Users\Jacob\Documents\GitHub
+2014-11-16 12:37:01.1250|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7148:/tmp/ssh-7oGiO428BzZX/agent.5388
+2014-11-16 12:37:01.1250|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\cmd;C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin;C:\Users\Jacob\AppData\Local\Apps\2.0\B9NP5T0J.RHC\OP38K956.D04\gith..tion_317444273a93ac29_0002.0006_44eefab3accc0394;C:\Users\Jacob\AppData\Local\GitHub\git-media-amd64_0.2.2;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2014-11-16 12:37:01.1250|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Jacob\AppData\Local\GitHub\PortableGit_ed44d00daa128db527396557813e7b68709ed0e2\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/lunddev/Lunddev-Projects.git" "Lunddev-Projects" ', Working Directory: C:\Users\Jacob\Documents\GitHub
