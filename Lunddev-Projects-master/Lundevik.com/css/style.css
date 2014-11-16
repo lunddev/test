@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#fcfcfc;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    height: 200px;
+}
+
+#nameplate{
+    text-align:center;
+}
+
+#links{
+    margin:auto;
+    width: 80px;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+a:hover{
+    text-decoration:underline;
+    
+}

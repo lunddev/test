@@ -1,0 +1,57 @@
+body{
+padding-top: 50px;    
+background-color: #fcfcfc;
+}
+
+/*Navbar stuff*/
+    @media (min-width: 768px) {
+        .navbar-default .navbar-nav {
+            display: inline-block;
+            float: none;
+            margin-left:100px;
+            clear:both;
+        }
+        
+        .navbar-default .navbar-collapse {
+            text-align: center;
+        }
+    }
+
+#topLinkGlyph{
+  margin-top:-15px;
+  font-size:18px;
+  padding-bottom:30px;
+  padding-top:20px; 
+  padding-left:25px;
+  padding-right:25px;
+  margin-bottom:-28px;
+}
+
+#topLinks{
+  padding-bottom:5px;
+  padding-top:5px;
+  margin-top:0px;
+  margin-bottom:-5px;
+  padding-left:5px;
+  padding-right:0px;  
+}
+
+.navbar-nav .glyphicon:hover{
+  color:#de7c09;
+}
+
+
+.navbar-brand
+{
+    position: absolute;
+    left: 0;
+    margin-top: -5px;
+    margin-left: -10px;
+}
+
+#loginButton{
+
+  margin-top:10px;
+  margin-right:10px;
+  float:right;
+}

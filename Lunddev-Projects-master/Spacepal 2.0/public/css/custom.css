@@ -1,0 +1,297 @@
+body{
+padding-top: 0px;    
+background-color: #fcfcfc;
+}
+
+
+/*Navbar stuff*/
+    @media (min-width: 768px) {
+        .navbar-default .navbar-nav {
+            display: inline-block;
+            float: right;
+            clear:both;
+            background-color:transparent;
+        }
+        
+        .navbar-default{
+        background-color:transparent;
+        }
+        .navbar-default .navbar-collapse {
+            text-align: center;
+        }
+    }
+
+#searchResults{
+  margin-top: 50px;
+  width: 100%;
+  height: 400px;
+}
+
+
+#topLinkGlyph{
+  margin-top:-15px;
+  font-size:18px;
+  padding-bottom:30px;
+  padding-top:20px; 
+  padding-left:25px;
+  padding-right:25px;
+  margin-bottom:-28px;
+}
+
+#topLinks{
+  padding-bottom:5px;
+  padding-top:5px;
+  margin-top:12px;
+  margin-bottom:-5px;
+  margin-right: 10px;
+  padding-left:5px;
+  padding-right:0px; 
+  color:white;
+}
+
+.navbar-nav .glyphicon:hover{
+  color:#c44730;
+}
+
+
+.navbar-brand
+{
+    position: absolute;
+    left: 0;
+    margin-top: -5px;
+    margin-left: -10px;
+}
+
+#loginButton{
+
+  margin-top:10px;
+  margin-right:10px;
+  float:right;
+  height:30px;
+  padding-top:-2px;
+}
+
+
+/*Search Box*/
+#searchSection{
+    height: 500px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background: url("../images/StockholmFlygfoto.jpg") 0% 0 fixed; 
+    background-size: cover;
+    position:relative;
+    padding-top: 80px;
+    color:white;
+
+
+}
+
+#searchFrame{
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  max-width: 900px;
+  text-align: center;
+
+}
+
+#searchBox{
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  max-width: 450px;
+  background-color:white;
+  border-radius: 25px;
+    margin-top: 30px;
+}
+
+#searchForm{
+  height:50px;
+  font-size:18px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius:0px;
+}
+
+#searchButton{
+  height:50px;
+  font-size:18px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius:0px;
+  padding-left:25px;
+  padding-right:25px;
+}
+
+
+/*Information Section...*/
+
+#informationSection{
+    height: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    color:black;
+}
+
+#informationHeadline{
+  max-width: 700px;
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  
+}
+
+#informationContainer{
+  width: 100%;
+  min-width:300px;
+  margin-left:auto;
+  margin-right:auto;
+
+  
+}
+
+.informationBox{
+  width:100%;
+  height:300px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:20px;
+  
+}
+
+.information{
+  width:250px;
+  height:250px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  padding-left:5px;
+  padding-right:5px;
+ 
+  
+}
+
+
+
+.information h2{
+  color:#c44730;
+}
+
+.information p{
+  color:black;
+  font-size:18px;
+  text-align:justify;
+ 
+}
+
+.informationText{
+  margin-left:auto;
+  margin-right:auto;
+  max-width:700px;
+  
+}
+
+
+/*Media Section*/
+#mediaSection{
+    height: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color:white;
+    background-size: cover;
+    position:relative;
+    text-align:center;
+    color:black;
+    border-color:gray;
+    border-top-style:solid;
+    border-bottom-style:solid;
+}
+
+#mediaBottom{
+    height: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color:#fcfcfc;
+
+}
+
+
+
+/*Map Section*/
+
+#mapSection{
+    height: 500px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background: url("../images/StockholmGoogle.png") 0% 0 fixed; 
+    background-size: cover;
+    position:relative;
+    padding-top: 80px;
+}
+
+#mapInfoBoxPadding{
+  margin-top:-80px;
+  height:500px;
+  width:90px;
+  float:left;
+ 
+  
+}
+
+#mapInfoBox{
+  float:left;
+  padding-left:10px;
+  color:black;
+  border-radius:5px;
+  min-height:300px;
+  max-width: 500px;
+  background-color:white;
+  padding-bottom:10px;
+  margin-left:10px;
+  margin-right:10px;
+  
+}
+
+#successSection{
+  text-align:center;
+    height:300px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.customerContainer{
+  width: 100%;
+  min-width:300px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.customerBox{
+  max-width:500px;
+  height:150px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:20px;
+}
+
+.customerBox p {
+  font-style: italic;
+}
+
+.customerBox h5{
+  text-align: right;
+}
+
+
+
+
+
+/*Footer*/
+
+#footSection{
+    height:300px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #323a48;
+    color:gray;
+}
